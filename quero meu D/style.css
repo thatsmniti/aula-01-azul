@@ -1,0 +1,38 @@
+#nav-content {
+
+    background-color: #ff0000;
+
+}
+
+
+
+
+#ul-content {
+    list-style: none;
+    display: flex;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+
+
+
+#li-content {
+
+    font-size: 20px;
+    padding: 30px;
+    
+
+}
+
+
+
+
+#li-content a {
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+}

@@ -1,0 +1,10 @@
+*{
+    padding: 14px;
+    margin: 12px;
+}
+
+.form
+    {
+        display: flex;
+        width: 15%;
+    } 
